@@ -97,7 +97,7 @@ day-XX-topic/
 | 35 | Chess: Thinking It Through |
 | 36 | Chess: Code & Move Validation |
 | 37 | ATM Machine: Thinking It Through |
-| 38 | Hotel Booking: Preventing Double Booking |
+| 38 | Chat Application: Thinking It Through |
 | 39 | Car Rental System: Thinking It Through |
 | 40 | Food Delivery: Thinking It Through |
 | 41 | Food Delivery: Code & Delivery Assignment |
@@ -115,9 +115,9 @@ day-XX-topic/
 | 53 | Twitter Feed: Pull vs Push |
 | 54 | Meeting Room Scheduler & Calendar |
 | 55 | Stock Exchange Order Matching Engine |
-| 56 | Digital Wallet: Ledger & Concurrency |
-| 57 | Cricbuzz Live Scoreboard |
-| 58 | Airline Booking: Thinking It Through |
+| 56 | URL Shortener: Thinking It Through |
+| 57 | Cricinfo Live Scoreboard |
+| 58 | Task Management (Jira): Thinking It Through |
 | 59 | 28 Problems, Same Mistakes: What Not to Do |
 | 60 | Month 2 Recap: Problem → Pattern → Scale Map |
 
@@ -145,15 +145,21 @@ day-XX-topic/
 | 79 | Uber: From LLD to HLD |
 | 80 | Notification System: From LLD to HLD |
 | 81 | Twitter Feed: From LLD to HLD |
-| 82 | Mock Interview: Uber |
-| 83 | Mock Interview: BookMyShow |
-| 84 | Mock Interview: Rate Limiter |
-| 85 | Mock Interview: Elevator |
-| 86 | Mock Interview: Food Delivery |
-| 87 | Mock Interview: Digital Wallet |
+| 82 | Mock Interview (unseen): Spotify |
+| 83 | Mock Interview (unseen): Amazon Locker |
+| 84 | Mock Interview (unseen): Restaurant Management |
+| 85 | Mock Interview (unseen): Version Control (Git) |
+| 86 | Mock Interview (unseen): Traffic Control |
+| 87 | Mock Interview (unseen): Minesweeper |
 | 88 | Top LLD Interview Questions: Rapid-fire |
 | 89 | How to Keep Practicing After This Series |
 | 90 | Wrap-up & What's Next: HLD |
+
+### Bonus practice problems
+Solve these yourself with SOCHO after the series:
+LinkedIn / Social Network · Search Autocomplete · Bloom Filter · Learning Platform · Simple Search Engine · LFU Cache · Hotel Booking · Digital Wallet · Airline Booking
+
+> Mock interviews (Days 82–87) use problems never solved in the series. Memorized answers won't help there; thinking will.
 
 ---
 
